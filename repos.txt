@@ -16,3 +16,5 @@ http://security.ubuntu.com/ubuntu xenial-security/main amd64 Packages
 http://security.ubuntu.com/ubuntu xenial-security/restricted amd64 Packages
 http://security.ubuntu.com/ubuntu xenial-security/restricted amd64 Packages
 http://security.ubuntu.com/ubuntu xenial-security/multiverse amd64 Packages
+
+run "sudo add-apt-repository <link>" to add all these repositories for more packages!
