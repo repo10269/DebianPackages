@@ -1,0 +1,18 @@
+http://us.archive.ubuntu.com/ubuntu/
+http://security.debian.org/debian-security buster/updates InRelease
+http://dl.google.com/linux/chrome/deb stable InRelease
+http://ftp.debian.org/debian stretch-backports InRelease
+http://deb.debian.org/debian buster InRelease
+http://deb.debian.org/debian buster-updates InRelease
+http://archive.ubuntu.com/ubuntu xenial InRelease
+http://archive.ubuntu.com/ubuntu xenial-updates InRelease
+http://archive.ubuntu.com/ubuntu xenial-backports InRelease
+http://security.ubuntu.com/ubuntu xenial-security InRelease
+http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
+http://archive.ubuntu.com/ubuntu xenial-updates/restricted amd64 Packages
+http://archive.ubuntu.com/ubuntu xenial-backports/main amd64 Packages
+http://archive.ubuntu.com/ubuntu xenial-backports/universe amd64 Packages
+http://security.ubuntu.com/ubuntu xenial-security/main amd64 Packages
+http://security.ubuntu.com/ubuntu xenial-security/restricted amd64 Packages
+http://security.ubuntu.com/ubuntu xenial-security/restricted amd64 Packages
+http://security.ubuntu.com/ubuntu xenial-security/multiverse amd64 Packages
